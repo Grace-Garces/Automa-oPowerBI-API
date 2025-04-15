@@ -40,8 +40,8 @@ Recomenda-se usar variáveis de ambiente ou arquivos `.env` (com uso da bibliote
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/seu-usuario/Automa-oPowerBI-API.git
+   cd Automa-oPowerBI-API
    ```
 
 2. Instale os requisitos (se houver):
